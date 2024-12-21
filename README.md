@@ -16,5 +16,3 @@ I'm passionate about back-end development and am currently deepening my expertis
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/a-nu-anucha-7200bb154/)
 - [Leetcode](https://leetcode.com/u/anuchataowkaen/)
-
-Feel free to explore my repositories and reach out for collaborations!
