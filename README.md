@@ -4,8 +4,8 @@
 Chiang Mai, Thailand
 
 ## 🛠️ Skills & Technologies
-- **Languages**: JavaScript/TypeScript, Go(Basic)
-- **Front-End**: Next.js, React, Mui, Chakra UI, React Hook Form, Yup, ...
+- **Languages**: JavaScript/TypeScript, Golang
+- **Front-End**: Next.js, React, Vue, Nuxt, Mui, Chakra UI, React Hook Form, Yup, ...
 - **Back-End**: Express, Nestjs, PostgreSQL, Prisma ORM, Joi, ...
 - **DevOps**: Docker, Turborepo
 - **Testing**: Vitest, jest, ...
@@ -14,5 +14,5 @@ Chiang Mai, Thailand
 I'm passionate about back-end development and am currently deepening my expertise in Go.
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/a-nu-anucha-7200bb154/)
+- [LinkedIn](https://www.linkedin.com/in/a-nu-anucha/)
 - [Leetcode](https://leetcode.com/u/anuchataowkaen/)
